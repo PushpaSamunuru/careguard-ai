@@ -1,0 +1,12 @@
+{"id":"c01","transcript":"This is our monthly check-in. How are you feeling?","summary":"Monthly check-in completed.","true_category":"monthly_check_in","expected_review":false}
+{"id":"c02","transcript":"Calling for a monthly wellness call today.","summary":"Monthly wellness call completed.","true_category":"monthly_check_in","expected_review":false}
+{"id":"c03","transcript":"We are doing the monthly follow-up.","summary":"Monthly follow-up was completed.","true_category":"monthly_check_in","expected_review":false}
+{"id":"c04","transcript":"I'm calling from the agency about tomorrow's shift.","summary":"Patient completed a monthly check-in.","true_category":"agency_call","expected_review":true}
+{"id":"c05","transcript":"The caregiver schedule needs confirmation.","summary":"Caregiver schedule was discussed.","true_category":"agency_call","expected_review":false}
+{"id":"c06","transcript":"Our staffing coordinator needs an update.","summary":"Staffing update requested.","true_category":"agency_call","expected_review":false}
+{"id":"c07","transcript":"I need to reschedule my appointment.","summary":"Appointment rescheduling requested.","true_category":"patient_inquiry","expected_review":false}
+{"id":"c08","transcript":"I have a medication question.","summary":"Medication question was raised.","true_category":"patient_inquiry","expected_review":false}
+{"id":"c09","transcript":"I have a service question about transportation.","summary":"Service question was discussed.","true_category":"patient_inquiry","expected_review":false}
+{"id":"c10","transcript":"Hello, is this the correct number?","summary":"Caller asked if this was the correct number.","true_category":"other","expected_review":true}
+{"id":"c11","transcript":"The line was silent.","summary":"Monthly check-in completed.","true_category":"other","expected_review":true}
+{"id":"c12","transcript":"I need to talk to someone.","summary":"Caller requested assistance.","true_category":"other","expected_review":true}
