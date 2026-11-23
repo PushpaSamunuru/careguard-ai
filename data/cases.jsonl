@@ -10,3 +10,4 @@
 {"id":"c10","transcript":"Hello, is this the correct number?","summary":"Caller asked if this was the correct number.","true_category":"other","expected_review":true}
 {"id":"c11","transcript":"The line was silent.","summary":"Monthly check-in completed.","true_category":"other","expected_review":true}
 {"id":"c12","transcript":"I need to talk to someone.","summary":"Caller requested assistance.","true_category":"other","expected_review":true}
+{"id":"c13","transcript":"Monthly check-in completed. The caller denies having chest pain.","summary":"Monthly check-in completed. The caller reported chest pain.","true_category":"monthly_check_in","expected_review":true}
